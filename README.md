@@ -10,12 +10,14 @@ My AI Learning Journey
 - Day4 While Loops
 - Day5 For Loops
 - Day6 Dictionaries
+- Day8 Student Manager
 
 ## Projects
 
 - BMI Calculator
 - BMI Category Analyzer
 - BMI Loop Calculator
+- student score manager
 
 ## Goal
 
